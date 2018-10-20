@@ -1,6 +1,6 @@
 Je meudr
 tu meudr
-il meudr
+il/elle/on meudr
 nous meudr
 vous meudr
-ils meudr
+ils/elles meudr
